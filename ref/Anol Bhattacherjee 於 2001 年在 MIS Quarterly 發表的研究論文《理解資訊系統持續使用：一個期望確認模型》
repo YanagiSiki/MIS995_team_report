@@ -1,0 +1,45 @@
+# Research Methodology Report: AI Continuance Intention and the Impact of Anthropomorphism
+
+## 1. Theoretical Background: Anthropomorphism and AI
+[cite_start]Anthropomorphism is defined as the attribution of distinctively human-like feelings, mental states, and behavioral characteristics to inanimate objects or technological artifacts[cite: 76, 77, 79]. 
+
+* [cite_start]**Drivers of Anthropomorphism**: This cognitive process is often triggered by the human need to experience competence (interacting effectively with the environment) and the desire to form social bonds[cite: 83, 84, 85].
+* [cite_start]**Design Implications**: AI designers often use "anthropomorphism by design" to promote technology acceptance, increase effectiveness, and facilitate user understanding[cite: 114, 115, 116].
+* [cite_start]**Limitations of AI Intelligence**: Despite anthropomorphic hype, current Deep Neural Networks (DNN) differ significantly from human intelligence; they are described as "brittle" (easily fooled by perturbations), "inefficient" (requiring massive training data), and "myopic" (failing to grasp mutual relationships between objects)[cite: 174, 176, 177, 182, 185].
+
+## 2. Theoretical Framework: IS Continuance Model
+[cite_start]The long-term viability and success of an information system (IS) depend on its "continuance"—the continued use after initial acceptance[cite: 338, 340].
+
+* [cite_start]**Expectation-Confirmation Theory (ECT)**: This framework posits that users form initial expectations, perceive performance after use, and determine the extent to which their expectations are confirmed[cite: 378, 379, 380, 381].
+* [cite_start]**Key Determinants**: Continuance intention is primarily determined by user satisfaction and the perceived usefulness of continued use[cite: 325, 433].
+* [cite_start]**Satisfaction and Retention**: Satisfaction is viewed as the summary psychological state resulting from a cognitive appraisal of the expectation-performance discrepancy[cite: 387, 391].
+
+## 3. Proposed Research Model with Moderating Variable
+Based on your request, this report integrates **Subscription Fee** as a moderating variable to explore how financial costs influence the relationship between user affect and usage behavior.
+
+### 3.1 Research Hypotheses (H1-H5 from Literature)
+* [cite_start]**H1**: User satisfaction with initial IS use is positively associated with IS continuance intention[cite: 439].
+* [cite_start]**H2**: The extent of confirmation is positively associated with satisfaction[cite: 460].
+* [cite_start]**H3**: Perceived usefulness is positively associated with satisfaction[cite: 471].
+* [cite_start]**H4**: Perceived usefulness is positively associated with IS continuance intention[cite: 485].
+* [cite_start]**H5**: The extent of confirmation is positively associated with perceived usefulness[cite: 493].
+
+### 3.2 New Moderating Hypothesis (H6)
+* **H6: Subscription Fee moderates the relationship between Satisfaction and IS Continuance Intention.**
+    * **H6a**: In high-fee contexts, the positive impact of satisfaction on continuance intention is strengthened, as users demand higher value to justify the cost.
+    * **H6b**: In low-fee or free contexts, the relationship between satisfaction and continuance intention may be weaker due to higher user tolerance and lower financial risk.
+
+## 4. Methodology
+[cite_start]The study follows a cross-sectional field survey design[cite: 508].
+
+* **Measurement Items**: 
+    * [cite_start]**Continuance Intention**: Measures the intent to continue using the service rather than alternatives[cite: 545, 814].
+    * [cite_start]**Satisfaction**: Measured along bipolar evaluative dimensions (e.g., very dissatisfied/very satisfied)[cite: 550, 551, 814].
+    * [cite_start]**Perceived Usefulness**: Taps into performance, productivity, and effectiveness[cite: 548, 814].
+    * [cite_start]**Confirmation**: Assesses the perceived congruence between expectation and actual performance[cite: 577, 814].
+    * **Subscription Fee (New)**: Operationalized as the monthly cost or perceived price level of the AI service.
+
+## 5. Statistical Analysis Plan
+* [cite_start]**Structural Equation Modeling (SEM)**: Used to validate the path significance of the primary model (H1-H5)[cite: 608, 610].
+* **Multi-group Analysis (MGA)**: The sample should be divided into "Paid" and "Free" groups to test if the path coefficients differ significantly based on the subscription fee.
+* **Hierarchical Regression**: To test the interaction effect (Satisfaction × Subscription Fee) on Continuance Intention.
